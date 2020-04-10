@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/corona-tracker/static/css/main.b7aa63e5.chunk.css",
-    "main.js": "/corona-tracker/static/js/main.144ba8fd.chunk.js",
-    "main.js.map": "/corona-tracker/static/js/main.144ba8fd.chunk.js.map",
-    "runtime-main.js": "/corona-tracker/static/js/runtime-main.b1278e06.js",
-    "runtime-main.js.map": "/corona-tracker/static/js/runtime-main.b1278e06.js.map",
-    "static/js/2.dd72d369.chunk.js": "/corona-tracker/static/js/2.dd72d369.chunk.js",
-    "static/js/2.dd72d369.chunk.js.map": "/corona-tracker/static/js/2.dd72d369.chunk.js.map",
-    "index.html": "/corona-tracker/index.html",
-    "precache-manifest.3252bb9380c0471c87385d674d97b5ad.js": "/corona-tracker/precache-manifest.3252bb9380c0471c87385d674d97b5ad.js",
-    "service-worker.js": "/corona-tracker/service-worker.js",
-    "static/css/main.b7aa63e5.chunk.css.map": "/corona-tracker/static/css/main.b7aa63e5.chunk.css.map",
-    "static/js/2.dd72d369.chunk.js.LICENSE.txt": "/corona-tracker/static/js/2.dd72d369.chunk.js.LICENSE.txt",
-    "static/media/corona2.jfif": "/corona-tracker/static/media/corona2.ddecfd75.jfif"
+    "main.css": "/coronavirus-website/static/css/main.848dda2f.chunk.css",
+    "main.js": "/coronavirus-website/static/js/main.5ec75606.chunk.js",
+    "main.js.map": "/coronavirus-website/static/js/main.5ec75606.chunk.js.map",
+    "runtime-main.js": "/coronavirus-website/static/js/runtime-main.f37bfe8a.js",
+    "runtime-main.js.map": "/coronavirus-website/static/js/runtime-main.f37bfe8a.js.map",
+    "static/js/2.56f42db4.chunk.js": "/coronavirus-website/static/js/2.56f42db4.chunk.js",
+    "static/js/2.56f42db4.chunk.js.map": "/coronavirus-website/static/js/2.56f42db4.chunk.js.map",
+    "index.html": "/coronavirus-website/index.html",
+    "precache-manifest.1adbf1ff0d27bc5dc669f4c0fd8b699e.js": "/coronavirus-website/precache-manifest.1adbf1ff0d27bc5dc669f4c0fd8b699e.js",
+    "service-worker.js": "/coronavirus-website/service-worker.js",
+    "static/css/main.848dda2f.chunk.css.map": "/coronavirus-website/static/css/main.848dda2f.chunk.css.map",
+    "static/js/2.56f42db4.chunk.js.LICENSE.txt": "/coronavirus-website/static/js/2.56f42db4.chunk.js.LICENSE.txt",
+    "static/media/corona2.jfif": "/coronavirus-website/static/media/corona2.ddecfd75.jfif"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1278e06.js",
-    "static/js/2.dd72d369.chunk.js",
-    "static/css/main.b7aa63e5.chunk.css",
-    "static/js/main.144ba8fd.chunk.js"
+    "static/js/runtime-main.f37bfe8a.js",
+    "static/js/2.56f42db4.chunk.js",
+    "static/css/main.848dda2f.chunk.css",
+    "static/js/main.5ec75606.chunk.js"
   ]
 }
